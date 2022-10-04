@@ -39,3 +39,5 @@
 - Different types of search algorithms
 - Number Guessing Game
 - Make calculator without using operators in program
+
+<h1 align="center">For any query or support open an issue.<h1>
